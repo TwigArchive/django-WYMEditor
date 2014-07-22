@@ -13,5 +13,5 @@ setup(
     license = "MIT License",
     keywords = "django widget WYMEditor",
     platforms = ['any'],
-    url = "https://github.com/KevinBrolly/django-WYMEditor",
+    url = "https://github.com/TwigWorld/django-WYMEditor",
 )
