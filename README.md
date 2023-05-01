@@ -1,3 +1,7 @@
+# Archived
+
+DO NOT DELETE, part of Aksorn
+
 django-WYMEditor
 ================
 
